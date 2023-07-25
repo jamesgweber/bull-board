@@ -1,6 +1,6 @@
 {
   "name": "@liveramp/bull-board",
-  "version": "5.7.1",
+  "version": "5.7.3",
   "private": true,
   "description": "Bull queue UI for inspecting jobs",
   "keywords": [
